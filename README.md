@@ -1,6 +1,6 @@
 # @timhall/popup
 
-Simple popup mechanism to display a popup positioned relative to a container (e.g. dropdowns and tooltips) with accessibility in mind.
+Simple popup mechanism to display a popup positioned relative to a container (e.g. dropdowns and popovers) with accessibility in mind.
 
 ```jsx
 import React, { useState } from 'react';
